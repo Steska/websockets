@@ -1,0 +1,7 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.2",
+        "illuminate/database": "^5.5",
+        "doctrine/dbal": "^2.5"
+    }
+}
