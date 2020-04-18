@@ -1,2 +1,2 @@
 # websockets
-to run websocket run the command php Notice.php
+to run websocket run the command: php Notice.php
